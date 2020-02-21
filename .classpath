@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/ECJ-23"/>
+	<classpathentry kind="lib" path="/am/courtenay/home1/sadeghisohy/eclipse-workspace/VariableLengthGA-master/weka-3-8-3/weka.jar"/>
+	<classpathentry kind="lib" path="/am/courtenay/home1/sadeghisohy/eclipse-workspace/VariableLengthGA-master/weka-3-8-3/weka-src.jar"/>
+	<classpathentry kind="lib" path="weka-3-8-3/weka.jar"/>
+	<classpathentry kind="lib" path="weka-3-8-3/weka-src.jar"/>
+	<classpathentry kind="lib" path="apache-commons.jar"/>
+	<classpathentry kind="lib" path="commons-math3-3.6.1.jar"/>
+	<classpathentry kind="lib" path="commons-math3-3.6.1-tools.jar"/>
+	<classpathentry kind="lib" path="commons-math3-3.6.1-tests.jar"/>
+	<classpathentry kind="lib" path="commons-math3-3.6.1-sources.jar"/>
+	<classpathentry kind="lib" path="commons-math3-3.6.1-javadoc.jar"/>
+	<classpathentry kind="lib" path="commons-lang3-3.5.jar"/>
+	<classpathentry kind="lib" path="commons-lang3-3.5-tests.jar"/>
+	<classpathentry kind="lib" path="commons-lang3-3.5-test-sources.jar"/>
+	<classpathentry kind="lib" path="commons-lang3-3.5-sources.jar"/>
+	<classpathentry kind="lib" path="commons-lang3-3.5-javadoc.jar"/>
+	<classpathentry kind="lib" path="commons-collections4-4.2-javadoc.jar"/>
+	<classpathentry kind="lib" path="commons-collections4-4.2-sources.jar"/>
+	<classpathentry kind="lib" path="commons-collections4-4.2-test-sources.jar"/>
+	<classpathentry kind="lib" path="commons-collections4-4.2-tests.jar"/>
+	<classpathentry kind="lib" path="commons-collections4-4.2.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
